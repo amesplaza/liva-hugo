@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2019-10-29T07:49:23+00:00
-image: images/author.jpg
+image: ''
 description: About Amy Ellis
 
 ---
